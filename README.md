@@ -1,4 +1,4 @@
-# Power-Bi-Project
+# Pizza Sales Analysis
 In this project, I analyzed a pizza sales dataset to extract key business insights. The main objectives were to identify patterns in customer ordering behavior and evaluate sales performance. Specifically, I:
 
 Determined the times of day when the highest and lowest number of orders were received.
